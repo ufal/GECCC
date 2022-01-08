@@ -2,7 +2,7 @@
 
 This README provides a description of the attached files for the GECCC dataset.
 
-The [data](data) folder comprises three subfolders: *train*, *dev* and *test*, each storing files of the particular set. In each folder, six files can be found:
+The [data](data) folder comprises three subfolders: *train*, *dev* and *test*, each storing files of the particular set. In each folder, eight files can be found:
 - *sentence.m2* – sentences in the M2 format
 - *paragraph.m2* – paragraphs in the M2 format
 - *sentence.input*, *sentence.gold* – aligned detokenized sentences (input with original noisy sentences and gold with one or two of their [alternative] corrections [tab-separated])
