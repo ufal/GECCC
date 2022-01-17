@@ -23,3 +23,7 @@ The meta-description file *meta.tsv* (located in [data](data)) is a tab-separate
 - NewlyAnnotated – whether the document is annotated with new annotations or the annotation were not newly created and come from the original source
 
 We are also attaching the slightly modified Moses detokenizer script *detokenizer.perl* that we used to detokenize original texts that were provided only as tokenized variants (e.g. source texts from AKCES-GEC).
+
+# Citation
+
+The dataset was introduced in the paper *Czech Grammar Error Correction with a Large and Diverse Corpus* that is accepted to TACL. Until published in TACL, see its [arXiv version](https://arxiv.org/pdf/2201.05590.pdf).
