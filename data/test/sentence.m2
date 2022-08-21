@@ -5783,25 +5783,20 @@ A 15 16|||R:OTHER|||tu méně chyb .|||REQUIRED|||-NONE-|||1
 
 S Moje rodina
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S velmi ráda mluvím o mojí rodině protože je dost originální .
 A 0 1|||R:ORTH:CASING|||Velmi|||REQUIRED|||-NONE-|||0
 A 4 5|||R:DET|||své|||REQUIRED|||-NONE-|||0
 A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Maminka vždycky říká že jsme jako fotbalová skupina , a že ona a tatínek jsou naši trenéři .
 A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Mám šest bratrů a čtýri sestry .
 A 4 5|||R:DIACR|||čtyři|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ja jsem devátá .
 A 0 1|||R:DIACR|||Já|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nade mnou je bratr a pode mnou také , jsem mezi kluky .
 A 0 1|||R:OTHER|||Narodila jsem se mezi kluky , přede|||REQUIRED|||-NONE-|||0
@@ -5810,11 +5805,9 @@ A 3 3|||M:DET|||můj|||REQUIRED|||-NONE-|||0
 A 5 6|||R:ADP|||po|||REQUIRED|||-NONE-|||0
 A 6 7|||R:PRON:INFL|||mně|||REQUIRED|||-NONE-|||0
 A 8 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 0 13|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Mezi nejstarší sestrou a nejmladším bratrem je 19 let , a mezi každými z nás jsou 2 roky .
 A 7 7|||M:NOUN|||rozdíl|||REQUIRED|||-NONE-|||0
-A 0 19|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Mít tolik sourozenců je moc dobrý protože nikdy nejsi sama a pořad někdo je doma .
 A 5 6|||R:ADJ:INFL|||dobré|||REQUIRED|||-NONE-|||0
@@ -5823,7 +5816,6 @@ A 7 7|||M:AUX|||nejsem|||REQUIRED|||-NONE-|||0
 A 8 9|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 11 12|||R:DIACR|||pořád|||REQUIRED|||-NONE-|||0
 A 12 14|||R:WO|||je někdo|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Také protože se učíš mnoho vecí , musíš být na jednou dcera ale taky maminka pro ostatní .
 A 0 2|||U:ADV|||Protože|||REQUIRED|||-NONE-|||0
@@ -5833,14 +5825,12 @@ A 10 11|||R:OTHER|||jen|||REQUIRED|||-NONE-|||0
 A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 13 14|||R:ADV:INFL|||také|||REQUIRED|||-NONE-|||0
 A 14 15|||R:NOUN:INFL|||maminkou|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Učíš se také rozdělit s všechnymi svoje veci .
 A 3 5|||R:OTHER|||dělit se se|||REQUIRED|||-NONE-|||0
 A 5 6|||R:OTHER|||všemi o|||REQUIRED|||-NONE-|||0
 A 6 7|||R:MORPH|||své|||REQUIRED|||-NONE-|||0
 A 7 8|||R:DIACR|||věci|||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jsem velmi zavázaná , že rodiče dali mi tolik dobrých vecí s tou rodinou , a že byli takoví dobří rodiče , a ještě jsou .
 A 2 3|||R:ADJ|||vděčná|||REQUIRED|||-NONE-|||0
@@ -5852,11 +5842,9 @@ A 18 20|||R:OTHER|||dobrými|||REQUIRED|||-NONE-|||0
 A 20 21|||R:NOUN:INFL|||rodiči|||REQUIRED|||-NONE-|||0
 A 21 22|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 24 24|||M:PRON|||jimi|||REQUIRED|||-NONE-|||0
-A 0 26|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Mám ráda všechny mé bratry a sestry .
 A 3 4|||R:DET|||své|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S z každého z nich můžu ěco dobého řict , a nesměnila bych nikoho za jiného .
 A 0 1|||R:ADP|||O|||REQUIRED|||-NONE-|||0
@@ -5868,7 +5856,6 @@ A 9 10|||U:CCONJ||||||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB|||neměnila|||REQUIRED|||-NONE-|||0
 A 12 12|||M:PRON|||je|||REQUIRED|||-NONE-|||0
 A 12 14|||R:WO|||za nikoho|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jsme taková rodina ž se umí smát o všechem .
 A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
@@ -5876,7 +5863,6 @@ A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 3 4|||R:OTHER|||který|||REQUIRED|||-NONE-|||0
 A 6 6|||M:DET|||všemu|||REQUIRED|||-NONE-|||0
 A 7 9|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Radi stratíme čas spolu a moc se bavíme když se sejdeme .
 A 0 1|||R:DIACR|||Rádi|||REQUIRED|||-NONE-|||0
@@ -5884,19 +5870,16 @@ A 1 2|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 2 4|||R:WO|||spolu čas|||REQUIRED|||-NONE-|||0
 A 4 4|||M:VERB|||trávíme|||REQUIRED|||-NONE-|||0
 A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 12|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S starší bratři a sestry už mají jejich vlaštnou rodinu , a proto už mám 14 synovců a néteře .
 A 0 1|||R:ORTH:CASING|||Starší|||REQUIRED|||-NONE-|||0
 A 6 7|||R:DET|||svou|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SPELL|||vlastní|||REQUIRED|||-NONE-|||0
 A 17 18|||R:DIACR|||neteře|||REQUIRED|||-NONE-|||0
-A 0 19|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ty mám nejraději ve světě , a myslím si , že jsem jejich nejoblyvenější teta ze všech .
 A 3 4|||R:ADP|||na|||REQUIRED|||-NONE-|||0
 A 13 14|||R:SPELL|||nejoblíbenější|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S ADAM –
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -5978,12 +5961,10 @@ A 1 2|||R:VERB|||leží|||REQUIRED|||-NONE-|||0
 A 3 6|||R:OTHER|||Asii . Nachází se|||REQUIRED|||-NONE-|||0
 A 7 8|||R:PROPN:INFL|||Ruskem|||REQUIRED|||-NONE-|||0
 A 9 10|||R:PROPN|||Čínou|||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Naše Mongolsko zeme velky .
 A 2 2|||M:AUX|||je|||REQUIRED|||-NONE-|||0
 A 2 4|||R:WO:SPELL|||velká země|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Mongolsko 21 aimag 5 město .
 A 1 1|||M:VERB|||čítá|||REQUIRED|||-NONE-|||0
@@ -5991,14 +5972,12 @@ A 2 3|||R:NOUN|||ajmag|||REQUIRED|||-NONE-|||0
 A 3 3|||M:CCONJ|||a|||REQUIRED|||-NONE-|||0
 A 4 4|||M:ADJ|||velkých|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOUN:INFL|||měst|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Centralni město Ulaanbaatar . Tam je bydlite moje rodina .
 A 0 1|||R:ADJ|||Hlavním|||REQUIRED|||-NONE-|||0
 A 1 2|||R:OTHER|||městem je|||REQUIRED|||-NONE-|||0
 A 5 7|||R:OTHER|||bydlí|||REQUIRED|||-NONE-|||0
 A 7 8|||R:DET|||má|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Mongolska mam moc lidy !
 A 0 0|||M:ADP|||V|||REQUIRED|||-NONE-|||0
@@ -6006,17 +5985,14 @@ A 0 1|||R:MORPH|||Mongolsku|||REQUIRED|||-NONE-|||0
 A 1 2|||R:OTHER|||je|||REQUIRED|||-NONE-|||0
 A 3 4|||R:MORPH|||lidí|||REQUIRED|||-NONE-|||0
 A 4 5|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Naše prezident jimenuje se Elbegdorj .
 A 0 1|||R:MORPH|||Náš|||REQUIRED|||-NONE-|||0
 A 2 4|||R:WO:SPELL|||se jmenuje|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Parlament mai 76 lidy .
 A 1 2|||R:OTHER|||se skládá ze|||REQUIRED|||-NONE-|||0
 A 3 4|||R:MORPH|||lidí|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S V Mongolsko deti krasná , šikovna
 A 2 3|||R:OTHER|||jsou|||REQUIRED|||-NONE-|||0
@@ -6024,7 +6000,6 @@ A 3 4|||R:SPELL|||krásné|||REQUIRED|||-NONE-|||0
 A 4 5|||R:OTHER|||a|||REQUIRED|||-NONE-|||0
 A 5 6|||R:SPELL|||šikovné|||REQUIRED|||-NONE-|||0
 A 6 6|||M:OTHER|||děti .|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Oni jsou ušehni studovat zakladní škola ješte visoky škola .
 A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -6034,26 +6009,21 @@ A 4 5|||R:DIACR|||základní|||REQUIRED|||-NONE-|||0
 A 5 6|||R:NOUN:INFL|||škole|||REQUIRED|||-NONE-|||0
 A 6 7|||R:OTHER|||, poté mohou studovat na|||REQUIRED|||-NONE-|||0
 A 7 9|||R:NOUN|||vysoké|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S 1
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 1|||U:NUM||||||REQUIRED|||-NONE-|||1
 
 S Sin 30 let .
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Česka republika 4 rok
 A 0 1|||R:DIACR|||Česká|||REQUIRED|||-NONE-|||0
 A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
 A 4 4|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ahoj
 A 1 1|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 1|||U:PART||||||REQUIRED|||-NONE-|||1
 
 S Proč mám ráda Českou republiku ?
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -6149,51 +6119,41 @@ A 7 7|||M:OTHER|||, navzdory tolika pozitivům|||REQUIRED|||-NONE-|||1
 
 S Co mi přinesl pobyt v Praze / na nějaké jiné zahraniční univerzitě ?
 A 6 7|||R:OTHER|||nebo|||REQUIRED|||-NONE-|||0
-A 0 13|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S V svém krátkém životě jsem dělala už několik kurzů cizích jazyků na různých univerzitách nebo v jazykových školách .
 A 0 1|||R:MORPH|||Ve|||REQUIRED|||-NONE-|||0
 A 15 16|||U:ADP||||||REQUIRED|||-NONE-|||0
-A 0 19|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Pobyt na Erasmuse v Praze se mi moc libí , ale teď bych chtěla napsat o kurzu arabštiny , který jsem dělala minulý rok v Jemenu , protože předpokládám , že bude to zajímavější .
 A 2 3|||R:SPELL|||Erasmu|||REQUIRED|||-NONE-|||0
 A 8 9|||R:DIACR|||líbí|||REQUIRED|||-NONE-|||0
 A 14 15|||R:VERB|||psát|||REQUIRED|||-NONE-|||0
 A 32 33|||U:DET||||||REQUIRED|||-NONE-|||0
-A 0 35|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Do Jemenu jsem jela s dvěma kamarádkami ze studií .
 A 4 5|||R:MORPH|||se|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Strávily jsme měsíc v hlavním městě Jemenu – San ' é , kde jsme se zúčastnily kurzu arabštiny .
 A 10 11|||R:OTHER|||á|||REQUIRED|||-NONE-|||0
-A 0 19|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nebyla to moje první zkušenost s kurzy arabštiny v arabských zemích , protože o rok dřív jsem byla na podobném kurzu v Damašku .
 A 2 3|||R:OTHER|||má|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN:INFL|||kurzem|||REQUIRED|||-NONE-|||0
-A 0 24|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Z toho důvodu jsem očekávala , že budeme o víkendech hodně cestovat po Jemenu a navštívíme několik míst , která by mě v té zemi zajímala .
 A 10 14|||R:WO|||po Jemenu hodně cestovat|||REQUIRED|||-NONE-|||0
-A 0 27|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Bohužel , když jsme přijely na místo , dozvěděly jsme se , že když chce člověk v Jemenu cestovat , potřebuje povolení od policie , což pro normálního turistu není problém , ale my jsme z důvodu účasti v kurzu potřebovaly dát policii povolení z naší školy , které nám nikdo nechtěl dát , protože v kurzu bylo spousta Američanů , a ředitel školy se bal únosu někoho ze studentů během soukromého výletu , což by mohlo udělat škole špatnou reklamu .
 A 38 39|||U:ADP||||||REQUIRED|||-NONE-|||0
 A 57 58|||R:MORPH|||byla|||REQUIRED|||-NONE-|||0
 A 65 66|||R:DIACR|||bál|||REQUIRED|||-NONE-|||0
-A 0 82|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Tím způsobem jsme musely být celou dobu v San ' é , a na výlety jsme jezdily jenom s jinými studenty k Rudému moři .
 A 10 11|||R:OTHER|||á|||REQUIRED|||-NONE-|||0
-A 0 25|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Navzdory tomu se mi San ' á moc líbila , protože má krásné Staré Město s výjimečnou architekturou , jakou nikde v Evropě nenajdeme .
 A 8 9|||R:VERB|||líbilo|||REQUIRED|||-NONE-|||0
 A 13 15|||R:ORTH:CASING|||staré město|||REQUIRED|||-NONE-|||0
-A 0 25|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Lidi jsou tam taky hodní , a hlavně se mi líbilo , že nezvykli moc na turisty a mohly jsme klidně projít ulici bez toho , aby nám všichni chtěli něco prodat , což je hrozně otravné v dalších arabských zemích .
 A 0 1|||R:NOUN:INFL|||Lidé|||REQUIRED|||-NONE-|||0
@@ -6203,11 +6163,9 @@ A 17 17|||M:OTHER|||nejsou moc zvyklí|||REQUIRED|||-NONE-|||0
 A 26 26|||M:SCONJ|||aniž|||REQUIRED|||-NONE-|||0
 A 35 37|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 41 41|||M:OTHER|||hrozně otravné|||REQUIRED|||-NONE-|||0
-A 0 42|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Taky škola , kde jsme dělaly kurz , nabízela moc dobrou úroveň vyučování spisovné arabštiny .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Měly jsme lekce od 8 do 12 každý den kromě soboty a neděle , co se nám na začátku líbilo , ale rychle přestalo , protože snídaně byla v 7 a my jsme neměly rady vstávat tak brzo o prázdninách .
 A 14 15|||R:PRON|||což|||REQUIRED|||-NONE-|||0
@@ -6215,41 +6173,34 @@ A 31 32|||R:PRON:INFL|||nám|||REQUIRED|||-NONE-|||0
 A 32 33|||R:OTHER|||se|||REQUIRED|||-NONE-|||0
 A 33 35|||R:OTHER|||nelíbilo|||REQUIRED|||-NONE-|||0
 A 36 40|||R:WO|||o prázdninách tak brzo|||REQUIRED|||-NONE-|||0
-A 0 41|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Bohudík jsme měly lekce v malých skupinách pro 6 lidi , a proto všichni museli hodně mluvit , což bylo pro mě dobré , protože na lekcích v Polsku jsme moc arabsky nemluvili , a jenom jsme četli a překládali texty .
 A 9 10|||R:DIACR|||lidí|||REQUIRED|||-NONE-|||0
 A 19 22|||R:WO|||pro mě bylo|||REQUIRED|||-NONE-|||0
-A 0 42|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Pobyt v Jemenu mi přinesl hodně nových zkušenosti spojených s mým oborem .
 A 7 8|||R:DIACR|||zkušeností|||REQUIRED|||-NONE-|||0
-A 0 13|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Líbí se mi , že jsem měla šanci podívat se na muslimskou zemi , která je jednou s nejkonservativnějších , protože je to zajímavé pro mě jako arabistku .
 A 17 18|||R:ADP|||z|||REQUIRED|||-NONE-|||0
 A 18 19|||R:ADJ|||nejkonzervativnějších|||REQUIRED|||-NONE-|||0
 A 23 24|||U:ADJ||||||REQUIRED|||-NONE-|||0
 A 28 28|||M:ADJ|||zajímavé|||REQUIRED|||-NONE-|||0
-A 0 29|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Zadruhé jsem se naučila hodně arabštiny , kterou jsem měla šanci používat s Araby .
 A 4 5|||R:OTHER|||takovou|||REQUIRED|||-NONE-|||0
 A 5 6|||R:NOUN:INFL|||arabštinu|||REQUIRED|||-NONE-|||0
 A 11 14|||R:WO|||s Araby používat|||REQUIRED|||-NONE-|||0
-A 0 15|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Kromě toho jsem se seznámila se spousta lidi , kteří studují něco podobného jako já , a bohužel jsou na světě věci , které mohou pochopit jenom arabisti mezi sebou , když spolu hovoří .
 A 6 7|||R:NOUN:INFL|||spoustou|||REQUIRED|||-NONE-|||0
 A 7 8|||R:DIACR|||lidí|||REQUIRED|||-NONE-|||0
 A 27 28|||R:MORPH|||arabisté|||REQUIRED|||-NONE-|||0
-A 0 35|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jsem moc šťastná , že jsem se mohla zúčastnit tohoto kurzu , díky kterému byla jsem v místě , kam je docela těžko jet .
 A 14 16|||R:WO|||jsem byla|||REQUIRED|||-NONE-|||0
 A 16 17|||R:ADP|||na|||REQUIRED|||-NONE-|||0
 A 20 21|||R:OTHER|||lze|||REQUIRED|||-NONE-|||0
-A 0 25|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Doufám , že budu mít šanci ještě někdy tam letět a cestovat do míst , kam jsem najela kvůli blbé politice jemenské policii .
 A 6 9|||R:WO|||tam ještě někdy|||REQUIRED|||-NONE-|||0
@@ -6257,7 +6208,6 @@ A 17 18|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 19 20|||R:ADJ|||hloupé|||REQUIRED|||-NONE-|||0
 A 22 23|||R:NOUN:INFL|||policie|||REQUIRED|||-NONE-|||0
 A 23 23|||M:VERB|||nejela|||REQUIRED|||-NONE-|||0
-A 0 24|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Proč mám rád Českou republiku .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -9524,26 +9474,21 @@ A 14 15|||R:DIACR|||přesně“|||REQUIRED|||-NONE-|||1
 
 S „ Nauryz . “
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S „ Nauryz . “
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nauryz je tradiční perský svátek na oslavu rovnodennosti , vznikl před více než 3000 lety .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Slavíme 21 . – 22 . března .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S V Kazachstanu lidé taky oslavují tento svátek .
 A 0 1|||M:ADV|||Také v|||REQUIRED|||-NONE-|||0
 A 1 2|||R:DIACR|||Kazachstánu|||REQUIRED|||-NONE-|||0
 A 2 4|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 5 5|||M:NOUN|||lidé|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S V městě na hlavní naměstí hraje představení na jeviště , zařizuje trh tradičních potravin , jako šubat , kumyz , ajran ( mlečně vyrobky ) ; baursaky , to je moučný vyrobek atd .
 A 0 1|||R:MORPH|||Ve|||REQUIRED|||-NONE-|||0
@@ -9559,7 +9504,6 @@ A 25 26|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 27 28|||R:PUNCT|||–|||REQUIRED|||-NONE-|||0
 A 31 32|||R:DIACR|||výrobek|||REQUIRED|||-NONE-|||0
 A 32 32|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 34|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Tančime tradiční kolavé tanci , hrajeme tradiční kazašské hry , přejeme se hodně štěsti a zdraví .
 A 0 1|||R:DIACR|||Tančíme|||REQUIRED|||-NONE-|||0
@@ -9567,31 +9511,25 @@ A 2 3|||R:SPELL|||kruhové|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOUN:INFL|||tance|||REQUIRED|||-NONE-|||0
 A 11 12|||R:PRON:INFL|||si|||REQUIRED|||-NONE-|||0
 A 13 14|||R:DIACR|||štěstí|||REQUIRED|||-NONE-|||0
-A 0 17|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S V tento svátek navštěvujeme se .
 A 3 5|||R:WO|||se navštěvujeme|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Připravujeme . sváteční jidlo – „ Nauryz – kože“ – kaše z sedmi obilnin .
 A 1 2|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 3 4|||R:DIACR|||jídlo|||REQUIRED|||-NONE-|||0
 A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 11 12|||R:MORPH|||ze|||REQUIRED|||-NONE-|||0
-A 0 15|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Na stolech musí být liché číslo jídel .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S To je moc tradiční a zajímavý svátek .
 A 0 2|||R:WO|||Je to|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nej nazyvají „ svátek jara“ .
 A 0 1|||R:OTHER|||Někdy je|||REQUIRED|||-NONE-|||0
 A 1 2|||R:SPELL|||nazýván|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Honza v zákletém zámku
 A 2 3|||R:DIACR|||zakletém|||REQUIRED|||-NONE-|||0
@@ -15156,11 +15094,9 @@ A 6 7|||R:MORPH|||takové|||REQUIRED|||-NONE-|||1
 
 S 21.4 2010
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:NUM||||||REQUIRED|||-NONE-|||1
 
 S K čemu slouží knihy a proč bychom měli číst
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A taky k tomu aby sme mohly číst o knížkách co nás zajímaj třeba o historii nebo válkách , hororu , romantických a sci - fi .
 A 0 2|||R:OTHER|||Knihy slouží|||REQUIRED|||-NONE-|||0
@@ -15174,11 +15110,9 @@ A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 17 17|||M:ADP|||o|||REQUIRED|||-NONE-|||0
 A 19 19|||M:OTHER|||něco z|||REQUIRED|||-NONE-|||0
 A 22 22|||M:NOUN|||knih|||REQUIRED|||-NONE-|||0
-A 0 27|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nebo se můžeme čtením naučit i psát .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S 16 . 4 2010
 A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
@@ -15190,46 +15124,37 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Těšíme se na prazdniny
 A 3 4|||R:DIACR|||prázdniny|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Blíží se prázdniny a já se na ně docela těším , ale spíš se těším na to že nebudu muset stávat tak brzo .
 A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 20 21|||R:VERB|||vstávat|||REQUIRED|||-NONE-|||0
-A 0 24|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Konečně už jenom měsíc a už to začne .
 A 5 8|||R:OTHER|||začnou|||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Všichni možná někam pojedou , ale já asi ne protože sme na tom trochu špatně s penězma .
 A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 10 11|||R:VERB|||jsme|||REQUIRED|||-NONE-|||0
 A 16 17|||R:OTHER|||penězi|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ale možná budu mít brygádu , kterou mi zařídí možná vlastní táta .
 A 4 5|||R:SPELL|||brigádu|||REQUIRED|||-NONE-|||0
 A 9 10|||U:ADJ||||||REQUIRED|||-NONE-|||0
-A 0 13|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Už se těším možná si vydělám nějaký peníze a něco si za ně koupím a nebo si budu šetřit .
 A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:MORPH|||nějaké|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ORTH:WSPACE|||anebo|||REQUIRED|||-NONE-|||0
-A 0 20|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S eště se uvidí .
 A 0 1|||R:ADV|||Ještě|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Doufám že si na mě táta taky udělá čas a vezme si mě k sobě na prázdniny a že nebudu nakonec doma jen tak trčet .
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 26|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Tyhle ty prázdniny bych si chtěla užít , navíc se asi budeme stěhovat .
 A 1 2|||U:DET||||||REQUIRED|||-NONE-|||0
-A 0 14|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Možná že taky poprosím tátu a pojedeme se podívat za mou prababičkou , kterou sem neviděla už dlouho a zajímalo by mě jestli se má dobře a jestli není nějak nemocná a jestli nepotřebuje s něším pomoct .
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
@@ -15238,29 +15163,24 @@ A 15 18|||R:WO|||už dlouho neviděla|||REQUIRED|||-NONE-|||0
 A 18 18|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 22 22|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 35 36|||R:SPELL|||něčím|||REQUIRED|||-NONE-|||0
-A 0 38|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A taky možná bude potřebovat mamka opčas s něčím pomoct , protože je těhotná a opčas jí není dobře .
 A 5 6|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 6 7|||R:SPELL|||občas|||REQUIRED|||-NONE-|||0
 A 10 10|||M:NOUN|||mamka|||REQUIRED|||-NONE-|||0
 A 15 16|||R:SPELL|||občas|||REQUIRED|||-NONE-|||0
-A 0 20|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A možná bych si mohla založit partu a chodit ven jenom s holkama .
 A 12 13|||R:NOUN:INFL|||holkami|||REQUIRED|||-NONE-|||0
-A 0 14|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ale zároveň se i těším na další rok neboli na září , až zase nastoupíme do školy plný síli a budeme schopni opět pracovat na plno .
 A 8 8|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 17 18|||R:MORPH|||plní|||REQUIRED|||-NONE-|||0
 A 18 19|||R:SPELL|||síly|||REQUIRED|||-NONE-|||0
 A 24 26|||R:ORTH:WSPACE|||naplno|||REQUIRED|||-NONE-|||0
-A 0 27|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Doufám že nasbírám hezké známky .
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S 8 . 19 . 4 .
 A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||0
@@ -16370,7 +16290,6 @@ S Ranní noviny , celodenní zaměstnání , rané brambory , kamenný pomník ,
 A 12 13|||R:SPELL|||skleněný|||REQUIRED|||-NONE-|||0
 A 24 25|||R:DIACR|||dřevěný|||REQUIRED|||-NONE-|||0
 A 43 44|||R:SPELL|||povinnosti|||REQUIRED|||-NONE-|||0
-A 0 48|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S K čemu potřebujeme mobilní telefon .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -17540,7 +17459,6 @@ A 12 14|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S 3.2.2010
 A 0 1|||R:ORTH:WSPACE|||3 . 2 . 2010|||REQUIRED|||-NONE-|||0
-A 0 1|||U:NUM||||||REQUIRED|||-NONE-|||1
 
 S 22 . 5 . 2010
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -19258,19 +19176,15 @@ A 34 35|||R:ORTH:WSPACE|||a šli|||REQUIRED|||-NONE-|||1
 
 S eh _ rk _ 679_05
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S eh _ rk _ 679_05
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S 18 . 5 . 2010
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jaký je můj tatínek
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S muj tatínek je přisni a je hodni
 A 0 1|||R:OTHER|||Můj|||REQUIRED|||-NONE-|||0
@@ -19278,7 +19192,6 @@ A 3 4|||R:SPELL|||přísný|||REQUIRED|||-NONE-|||0
 A 5 6|||U:AUX||||||REQUIRED|||-NONE-|||0
 A 6 7|||R:ADJ:INFL|||hodný|||REQUIRED|||-NONE-|||0
 A 7 7|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S mačerni vlasi rat mneuči karate rat sem nou dela ukol uklizi ra takisi hraje s nami plejtešna
 A 0 1|||R:OTHER|||Má černé|||REQUIRED|||-NONE-|||0
@@ -19294,7 +19207,6 @@ A 12 13|||R:SPELL|||taky|||REQUIRED|||-NONE-|||0
 A 13 14|||R:OTHER|||si|||REQUIRED|||-NONE-|||0
 A 15 16|||R:OTHER|||námi hraje na|||REQUIRED|||-NONE-|||0
 A 16 17|||R:OTHER|||PlayStation .|||REQUIRED|||-NONE-|||0
-A 0 17|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S eh _ rk_681_05
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -19542,7 +19454,6 @@ A 10 11|||R:SPELL|||se|||REQUIRED|||-NONE-|||0
 A 13 14|||R:VERB|||jdu|||REQUIRED|||-NONE-|||0
 A 15 16|||R:ORTH:CASING|||Andrejovi|||REQUIRED|||-NONE-|||0
 A 16 16|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S a pudem do ňakiho baraku u spartaku a tam vizve dnem holky a pudeme nikam prič třebana meksiho na led a pak setam klouza me ak diš pridu domu tak dona vit*řu a pak du třeba pomoc tatovi pomoc s stehovanim
 A 0 1|||R:OTHER|||Potom|||REQUIRED|||-NONE-|||0
@@ -19573,7 +19484,6 @@ A 37 39|||R:WO:SPELL|||pomoct tátovi|||REQUIRED|||-NONE-|||0
 A 39 40|||R:MORPH|||se|||REQUIRED|||-NONE-|||0
 A 40 41|||R:DIACR|||stěhováním|||REQUIRED|||-NONE-|||0
 A 41 41|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 41|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S eh _ po_700_ 05
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -21528,22 +21438,18 @@ A 7 10|||R:OTHER|||, řízky|||REQUIRED|||-NONE-|||0
 A 10 12|||R:PUNCT|||, borůvky|||REQUIRED|||-NONE-|||0
 A 12 14|||R:PUNCT|||, hříbky|||REQUIRED|||-NONE-|||0
 A 14 15|||M:PUNCT|||, borůvky|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S v SME NA OSTROVĚ .
 A 0 2|||R:OTHER|||Jsme|||REQUIRED|||-NONE-|||0
 A 2 4|||R:ORTH:CASING|||na ostrově|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S v ZLOMIM VETĚV
 A 0 3|||R:OTHER|||Zlomím větev .|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S z VELKY MRÁZ
 A 0 2|||R:OTHER|||Velký|||REQUIRED|||-NONE-|||0
 A 2 3|||R:ORTH:CASING|||mráz|||REQUIRED|||-NONE-|||0
 A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S v TA HOLKA MA PJEKNY USMEV .
 A 0 1|||U:ADP||||||REQUIRED|||-NONE-|||0
@@ -21551,19 +21457,16 @@ A 1 3|||R:ORTH:CASING|||Ta holka|||REQUIRED|||-NONE-|||0
 A 3 4|||R:OTHER|||má|||REQUIRED|||-NONE-|||0
 A 4 5|||R:ADJ|||pěkný|||REQUIRED|||-NONE-|||0
 A 5 6|||R:NOUN|||úsměv|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S ž BROUSÍM NŮŽ
 A 0 1|||U:CCONJ||||||REQUIRED|||-NONE-|||0
 A 1 3|||R:ORTH:CASING|||Brousím nůž|||REQUIRED|||-NONE-|||0
 A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S d JEDU NA ZAVOD .
 A 0 1|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 1 3|||R:ORTH:CASING|||Jedu na|||REQUIRED|||-NONE-|||0
 A 3 4|||R:NOUN|||závod|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jak se mění příroda na jaře 31 . 3 . 2010
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -21842,7 +21745,6 @@ A 25 26|||R:SPELL|||krást|||REQUIRED|||-NONE-|||0
 A 27 27|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 31 32|||R:ORTH:CASING|||Nice|||REQUIRED|||-NONE-|||0
 A 33 34|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 34|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S ja tu hru hraju furt od rana az do večera .
 A 0 1|||R:PRON|||Já|||REQUIRED|||-NONE-|||0
@@ -21850,20 +21752,17 @@ A 3 4|||R:VERB|||hraji|||REQUIRED|||-NONE-|||0
 A 4 5|||R:OTHER|||pořád ,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:DIACR|||rána|||REQUIRED|||-NONE-|||0
 A 7 8|||R:DIACR|||až|||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jedna mise mi nejde tu misy uždělám 2 roky .
 A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 5 6|||R:SPELL|||misi|||REQUIRED|||-NONE-|||0
 A 6 7|||R:OTHER|||dělám už|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Mužete tam tunit auta a mužuto poradat vlastní zavody .
 A 0 1|||R:DIACR|||Můžete|||REQUIRED|||-NONE-|||0
 A 5 6|||R:OTHER|||můžete|||REQUIRED|||-NONE-|||0
 A 6 7|||R:DIACR|||pořádat|||REQUIRED|||-NONE-|||0
 A 8 9|||R:DIACR|||závody|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Téma
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -22522,38 +22421,30 @@ A 125 126|||R:DIACR|||dobře|||REQUIRED|||-NONE-|||1
 
 S Jak zahnat nudu
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nuda je nic nedělání .
 A 2 4|||R:ORTH:WSPACE|||nicnedělání|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Občas se nudím .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S ( ( Nudím se u počítače ) )
 A 0 2|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 6 8|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nudím sedoma , když se mi nechce nic dělat .
 A 1 2|||R:ORTH:WSPACE|||se doma|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ve všední dny se učím a píšu úlohy , v sobotu a neděli jsem na počítači nebo si čtu .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 20|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ve škole se moc nenudím , stále mám dělat
 A 8 8|||M:PRON|||co|||REQUIRED|||-NONE-|||0
 A 9 9|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Táta kouká na televizy , máma buď .
 A 3 4|||R:SPELL|||televizi|||REQUIRED|||-NONE-|||0
 A 7 7|||M:PUNCT|||. .|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Takt ja by sem si koupila auto a svi rodině barak a bylo bi sem bohata a koupila by sem si plazmovku , a bazen a veci třeba kalhoty , boty , a tričko a mikynu a zahrada a abi my nikdo nakej zahradnik , a to je vše .
 A 0 1|||R:MORPH|||Tak|||REQUIRED|||-NONE-|||0
@@ -23207,7 +23098,6 @@ A 1 2|||M:PUNCT|||. My|||REQUIRED|||-NONE-|||1
 
 S MOJE OBLÍBENÁ HRA JE : SHAKES AND FIDGET
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Moje oblíbená hra je shakes and fidget je to velmi dobrá hra je to sice anglický nazev tý hry , ale v tý hře je to český . rád hraju tu hru hodně z nás v tadyté škole jí hraje je to fakt dobrá hra .
 A 4 5|||R:ORTH:CASING|||Shakes|||REQUIRED|||-NONE-|||0
@@ -23225,7 +23115,6 @@ A 35 36|||R:ADP|||na|||REQUIRED|||-NONE-|||0
 A 36 37|||R:OTHER|||téhle|||REQUIRED|||-NONE-|||0
 A 38 39|||R:DIACR|||ji|||REQUIRED|||-NONE-|||0
 A 40 40|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 46|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S já jí hraju teprve 1 rok , ale hodněkrát jsem jí začínal znova , protože když jste 40 úroveň tak je málo věcí co v té hře se dá dělat , úrovně už jdou pomalu , a jsou tan i dlouhý práce , i drahý věci , ale když jste od 1 do 10 úrovně tak to jsou levný věci krátký práce , a i úrovně lítaj třeba když si chcete koupit třeba helmu tak jí od jí 1 do 10 úrovni koupíte třeba za 15 zlatejch , ale když chcete si koupit helmu když chcete tak ale jste 40 úroveň a už to stojí třeba 60 zlatejch to je už pak drahý .
 A 0 1|||R:ORTH:CASING|||Já|||REQUIRED|||-NONE-|||0
@@ -23270,7 +23159,6 @@ A 101 102|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
 A 107 108|||R:OTHER|||zlatých ,|||REQUIRED|||-NONE-|||0
 A 110 112|||R:WO|||pak už|||REQUIRED|||-NONE-|||0
 A 112 113|||R:ADJ:INFL|||drahé|||REQUIRED|||-NONE-|||0
-A 0 114|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jsou tam i na výběr seveny od 1 do 7 sevenu českýho . Ale mužou to hrát i cizinci například Angličan , brazilec , němec , španěl , ital , ale i Češi , ale
 A 2 5|||R:WO|||na výběr i|||REQUIRED|||-NONE-|||0
@@ -23290,7 +23178,6 @@ A 31 32|||U:CCONJ||||||REQUIRED|||-NONE-|||0
 A 32 33|||U:PROPN||||||REQUIRED|||-NONE-|||0
 A 33 34|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
 A 34 35|||U:CCONJ||||||REQUIRED|||-NONE-|||0
-A 0 35|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Český je nejlepší , protože je to tan dobrý protože tomu rozuníš a né když je to anglicky , to je jenom pro angličany .
 A 0 1|||R:DIACR|||Česky|||REQUIRED|||-NONE-|||0
@@ -23303,7 +23190,6 @@ A 11 12|||R:SPELL|||rozumíš|||REQUIRED|||-NONE-|||0
 A 12 14|||R:OTHER|||,|||REQUIRED|||-NONE-|||0
 A 19 21|||R:WO|||je to|||REQUIRED|||-NONE-|||0
 A 23 24|||R:ORTH:CASING|||Angličany|||REQUIRED|||-NONE-|||0
-A 0 25|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ale i ty co umí anglický jí mužou hrát .
 A 2 3|||R:MORPH|||ti|||REQUIRED|||-NONE-|||0
@@ -23312,11 +23198,9 @@ A 5 6|||R:DIACR|||anglicky|||REQUIRED|||-NONE-|||0
 A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:DIACR|||ji|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SPELL|||mohou|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Je to moje nejoblíbenejší hra .
 A 3 4|||R:DIACR|||nejoblíbenější|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Moje oblíbená hra
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -30709,16 +30593,13 @@ A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||1
 
 S Chodím do školy s novým prostorným batohem .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Taška je vybavena čtyřmi kapsami a jednou dolní malou . Ta
 A 9 9|||M:NOUN|||kapsou|||REQUIRED|||-NONE-|||0
 A 10 11|||U:DET||||||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S to školní brašna je nepromokavá a je černá jako havran .
 A 0 1|||R:DET|||Tato|||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Otevřuli první největší kapsu , můžu vytáhnout notebook , když tam bude a menší přístup k učení . Po otevření druhé kapsy mohu si vzít to , co potřebuji do školy . Potáhnu li zipem dostanu se do prostoru pro diskmen a CD dávám si tam bačkory . A do poslední kapsy si doma uklidím svačinu připravenou od mamky . A malinkou kapsičku , kterou skoro vůbec nepoužívám .
 A 0 1|||R:OTHER|||Pokud otevřu|||REQUIRED|||-NONE-|||0
@@ -30734,16 +30615,13 @@ A 43 43|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 58 59|||R:NOUN|||matky|||REQUIRED|||-NONE-|||0
 A 61 61|||M:OTHER|||mám tam také|||REQUIRED|||-NONE-|||0
 A 62 63|||R:NOUN|||kapsu|||REQUIRED|||-NONE-|||0
-A 0 69|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Koupil jsem ji v srpnu na začátku školního roku .
 A 3 5|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 9 9|||M:OTHER|||v srpnu|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Slouží dobře a nebolí mě po nosení brašny záda .
 A 6 7|||R:DIACR|||nošení|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Moje školní taška
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -33214,29 +33092,23 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Pavouk a páv
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S ( Kdo jinému jámu kopá sám do ní padá )
 A 5 5|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Byl jednou jeden páv jménem Kryštof , který žil v zámecké zahradě .
 A 7 8|||U:DET||||||REQUIRED|||-NONE-|||0
-A 0 13|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Kryštof byl velmi umíněný a spíše samotářský než přátelský a měl krásně zbarvená dlouhá pera na které byl dostatečně pyšný .
 A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 18 19|||R:ADV|||dost|||REQUIRED|||-NONE-|||0
-A 0 21|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jednoho dne se před branou zámecké zahrady objevil pavouk i se svou rodinou , který se chystal přestěhovat do velkého dutého stromu přímo vedle pávova bytu .
 A 14 15|||U:DET||||||REQUIRED|||-NONE-|||0
 A 15 17|||R:WO|||chystal se|||REQUIRED|||-NONE-|||0
-A 0 27|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Rodinka vešla dovnitř a začala vybalovat .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S „ Ahoj – já sem Pepa tvůj nový soused“ představil se zdvořile pavouk Kryštofovi , který zrovna ležel na zahradě a četl si noviny .
 A 2 3|||R:PUNCT|||,|||REQUIRED|||-NONE-|||0
@@ -33244,35 +33116,28 @@ A 4 5|||R:OTHER|||jsem|||REQUIRED|||-NONE-|||0
 A 6 6|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 8 9|||R:QUOTATION|||soused|||REQUIRED|||-NONE-|||0
 A 9 9|||M:PUNCT|||, “|||REQUIRED|||-NONE-|||0
-A 0 25|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S „ Cože už zase nový soused“ ? odsekl páv a vrátil se zpět do domu .
 A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 5 6|||R:QUOTATION|||soused|||REQUIRED|||-NONE-|||0
 A 6 7|||R:PUNCT|||, “|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Pepa hned věděl , že mu nejspíš nepadli do oka a že jim bude dělat problémy .
 A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 17|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A nemýlil se .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Kryštof dělal všechno proto , aby je dostal pryč , ale ňák se mu nedařilo a tak vymyslel dokonalý plán .
 A 11 12|||R:OTHER|||nějak|||REQUIRED|||-NONE-|||0
 A 15 15|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 21|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jako každý rok se na zahradě konala velká slavnost na počest nových přistěhovalců .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 14|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Byla to velká zábava tancovalo se , pilo a hráli se různé hry takže si nikdo nevšiml , že se Kryštof vypařil .
 A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 23|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Pozdě večer když byl večírek skoro u konce přiběhl páv a zavolal „ pomóc okradli mě , někdo mi ukradl všechny peníze a šperky – pomóc“ ! Všichni se hned rozutekli a šli zkontrolovat svoje byty .
 A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
@@ -33283,28 +33148,23 @@ A 14 14|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 24 24|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 24 27|||R:WO:SPELL|||pomoc ! “|||REQUIRED|||-NONE-|||0
 A 34 35|||R:MORPH|||své|||REQUIRED|||-NONE-|||0
-A 0 37|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Každému něco chybělo až na pavoučí rodinku .
 A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S „ To byli určitě oni – ta velká rodina osminožců“ zařval páv .
 A 9 10|||R:QUOTATION|||osminožců|||REQUIRED|||-NONE-|||0
 A 10 10|||M:PUNCT|||, “|||REQUIRED|||-NONE-|||0
-A 0 13|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Všichni se na ně otočili a chtěli je vyhodit pryč ze zahrady , ale v tom se ozval hlas moudré sovy : „ oni to nebyli našla sem u sebe v bytě Kryštofovo krásné pero . “
 A 23 24|||R:ORTH:CASING|||Oni|||REQUIRED|||-NONE-|||0
 A 26 26|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 27 28|||R:OTHER|||jsem|||REQUIRED|||-NONE-|||0
-A 0 37|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S „ Já jen chtěl“ … , ale než to stačil dopověď už byl před branami zámecké zahrady .
 A 3 4|||R:QUOTATION|||chtěl|||REQUIRED|||-NONE-|||0
 A 4 6|||R:WO:SPELL|||, “|||REQUIRED|||-NONE-|||0
 A 10 11|||R:OTHER|||dopovědět ,|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Skokan Richie
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -35562,7 +35422,6 @@ A 0 1|||R:ORTH:CASING|||Bude|||REQUIRED|||-NONE-|||1
 S Všechno má mít svůj konec , takže začátek konce invaze černejch dárečků , jen tak dál ! !
 A 10 11|||R:ADJ:INFL|||černých|||REQUIRED|||-NONE-|||0
 A 16 17|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Kolik za to senioři dostali ? . . . Já bych na něco takového nešla , ani zadara . . .
 A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
@@ -35579,12 +35438,10 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S směšný .
 A 0 1|||R:ADJ|||Směšné|||REQUIRED|||-NONE-|||0
-A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Chudáček malej , celej život ve vězení !
 A 1 2|||R:ADJ:INFL|||malý|||REQUIRED|||-NONE-|||0
 A 3 4|||R:ADJ:INFL|||celý|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Hlavně jim přeji , aby se časem stali pracovitými plnohodnotnými členy naší společnosti a více jí dávali než brali.Ale asi jsem naivní a nezdravě optimistický .
 A 9 9|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
@@ -35613,11 +35470,9 @@ A 11 13|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S Byl se po nich někdo podívat na E 55 ?
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Asi se svezly s nějakým hodným pánem v mercedesu .
 A 8 9|||R:ORTH:CASING|||Mercedesu|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nějaký cizí pán jím na sociálních sítích slíbil , že když k němu utečou tak se o ně postará .
 A 3 4|||R:DIACR|||jim|||REQUIRED|||-NONE-|||0
@@ -35901,15 +35756,12 @@ A 2 3|||R:DIACR|||vždyť|||REQUIRED|||-NONE-|||0
 A 12 14|||R:PUNCT|||. Zradil|||REQUIRED|||-NONE-|||0
 A 18 19|||R:SPELL|||marrákešské|||REQUIRED|||-NONE-|||0
 A 20 23|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 24|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jediná strana v parlamentu hájící opravdové zájmy nás lidí je pouze SPD ! ! !
 A 12 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 15|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ostatní mají ve svých řadách nespočet radikálních neomarxistů ! !
 A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Asi měly mamky moc práce s " chytrým " telefonem , tak nemohly sledovat své sedmileté děti ! Už je vám všem jasné , proč půjde celé lidstvo do pr . . . . ? Stačí se zamyslet nad zprávami . Dnes a denně důkazy lidské bl.osti , bezohlednosti , masochizmu , lhostejnosti k životu , přírodě a dalo by se pokračovat do nekonečna !
 A 6 7|||R:QUOTATION|||„|||REQUIRED|||-NONE-|||0
@@ -37377,7 +37229,6 @@ A 7 8|||R:SPELL|||slovy|||REQUIRED|||-NONE-|||0
 A 8 9|||R:PUNCT|||„|||REQUIRED|||-NONE-|||0
 A 11 12|||R:QUOTATION|||pokora“|||REQUIRED|||-NONE-|||0
 A 13 14|||R:MORPH|||Kefalíne|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Když vždy přecházím na druhou sranu chodníku , než abych se potkal s cikánem je taky segregace ?
 A 5 6|||R:SPELL|||stranu|||REQUIRED|||-NONE-|||0
@@ -39262,7 +39113,6 @@ A 22 24|||R:ORTH:WSPACE|||demonstrovat . Zatím|||REQUIRED|||-NONE-|||0
 A 30 30|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 36 37|||R:VERB|||nezdá|||REQUIRED|||-NONE-|||0
 A 43 43|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 47|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S . . . . . já to chápu tak , že CIKÁNI / ind . původu / posílají děti do školy , pracují a ani nevíme , že žijí vedle nás .
 A 0 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
@@ -39270,14 +39120,12 @@ A 4 6|||U:PUNCT|||Já|||REQUIRED|||-NONE-|||0
 A 11 12|||R:ORTH:CASING|||cikáni|||REQUIRED|||-NONE-|||0
 A 12 13|||R:PUNCT|||(|||REQUIRED|||-NONE-|||0
 A 16 17|||R:PUNCT|||)|||REQUIRED|||-NONE-|||0
-A 0 32|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S ROMOVÉ / český původ / neposílají děti do školy , nepracují a pracovat nebudou , proč taky , když dávky mají stejně a moc dobře o nich víme ,
 A 0 1|||R:ORTH:CASING|||Romové|||REQUIRED|||-NONE-|||0
 A 1 2|||R:PUNCT|||(|||REQUIRED|||-NONE-|||0
 A 4 5|||R:PUNCT|||)|||REQUIRED|||-NONE-|||0
 A 28 29|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 29|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S hluk a špína , zápach nejdou přehlédnout . Zničí byt - dostanou nový , neplatí elektřinu - svítí , vodu - teče .
 A 0 1|||R:ORTH:CASING|||Hluk|||REQUIRED|||-NONE-|||0
@@ -39287,7 +39135,6 @@ A 4 4|||M:CCONJ|||a|||REQUIRED|||-NONE-|||0
 A 10 11|||R:DIACR|||–|||REQUIRED|||-NONE-|||0
 A 16 17|||R:DIACR|||–|||REQUIRED|||-NONE-|||0
 A 20 21|||R:DIACR|||–|||REQUIRED|||-NONE-|||0
-A 0 23|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A MY RASISTI = pracujeme , platíme , chováme se služně a DOSTÁVÁME PŘES HUBIČKU . .
 A 1 3|||R:ORTH:CASING|||my rasisti|||REQUIRED|||-NONE-|||0
@@ -39295,7 +39142,6 @@ A 3 4|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 10 11|||R:ADV|||slušně|||REQUIRED|||-NONE-|||0
 A 12 15|||R:ORTH:CASING|||dostáváme přes hubičku|||REQUIRED|||-NONE-|||0
 A 15 16|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 17|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S To bych rád věděl , jaké mají IQ , ty holé hlavy s kamny v rukou .
 A 9 10|||R:MORPH|||ti|||REQUIRED|||-NONE-|||0
@@ -40075,40 +39921,32 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 S Paní Pešková , tentokrát souhlas s vámi .
 A 4 5|||U:NOUN||||||REQUIRED|||-NONE-|||0
 A 7 7|||M:VERB|||souhlasím|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Z migrantů také nemám radost , jsem proti této obrovské invazi do Evropy , ale toto je síla .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 19|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Vy , co se tady radujete , že tito lidé zemřeli a ještě tak hrozným způsobem , si říkáte civilizovaní ?
 A 11 11|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 21|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S V čem jste lepší ?
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ovšem ta reklama " Pražská hydinová šunka " na tom náklaďáku . . .
 A 3 4|||R:QUOTATION|||„|||REQUIRED|||-NONE-|||0
 A 5 6|||R:SPELL|||hodinová|||REQUIRED|||-NONE-|||0
 A 6 7|||R:QUOTATION|||šunka“|||REQUIRED|||-NONE-|||0
 A 7 8|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 14|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Asi ji pro jistotu hned tak nekoupím .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Co lezli do té krabice nákláďáku
 A 5 6|||R:DIACR|||náklaďáku|||REQUIRED|||-NONE-|||0
 A 6 6|||M:PUNCT|||?|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S ? ? ? , I ten největší blb - musí vědět , že tolik lidí v takovém prostoru nemá šanci na přežití . . . Bohužel si to zvolili sami . . .
 A 0 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 8 9|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 33|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S tohle je uz moc tohle je nacismus , tohle zastavi jen valka ! ! !
 A 0 1|||R:ORTH:CASING|||Tohle|||REQUIRED|||-NONE-|||0
@@ -40117,7 +39955,6 @@ A 4 4|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 9 10|||R:DIACR|||zastaví|||REQUIRED|||-NONE-|||0
 A 11 12|||R:DIACR|||válka|||REQUIRED|||-NONE-|||0
 A 12 14|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 15|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S OSN si dělá z normálních lidí pr . . l ! ! !
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -43232,29 +43069,23 @@ A 7 7|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
 S Připojuji se ke zbytku s nefunkčností sms brány
 A 6 7|||R:ORTH:CASING|||SMS|||REQUIRED|||-NONE-|||0
 A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S : D
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Dobrý den , je možné reklamovat telefon zakoupený v T - mobile prodejně např . v Brně v jiné prodejně ?
 A 11 12|||R:ORTH:CASING|||Mobile|||REQUIRED|||-NONE-|||0
 A 13 13|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 17 17|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 21|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Díky za reakci .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jsem rád , že se zabýváte zpětnou vazbou uživatelů .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Přeji hezký den .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Když se chci přihlásit na svoji stránku T - zones , hlásí mi to : kód chyby G 403.Co
 A 9 10|||R:ORTH:CASING|||Zones|||REQUIRED|||-NONE-|||0
@@ -43262,41 +43093,33 @@ A 15 15|||M:PUNCT|||„|||REQUIRED|||-NONE-|||0
 A 18 19|||R:OTHER|||403|||REQUIRED|||-NONE-|||0
 A 19 19|||M:PUNCT|||“|||REQUIRED|||-NONE-|||0
 A 19 19|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 19|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S s tím ?
 A 0 0|||M:PRON|||Co|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nokia je na ho*no : ) poruchové , uplně každé
 A 3 4|||R:OTHER|||hovno|||REQUIRED|||-NONE-|||0
 A 6 7|||R:ORTH:CASING|||Poruchové|||REQUIRED|||-NONE-|||0
 A 8 9|||R:DIACR|||úplně|||REQUIRED|||-NONE-|||0
 A 9 10|||R:OTHER|||pokaždé .|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S zrovna když ju nejvíc potřebuju !
 A 0 1|||R:ORTH:CASING|||Zrovna|||REQUIRED|||-NONE-|||0
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 2 3|||R:OTHER|||ji|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S to je tak vždycky : D
 A 0 1|||R:ORTH:CASING|||To|||REQUIRED|||-NONE-|||0
 A 4 4|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S a kdo má to štěstí ? : )
 A 0 1|||R:ORTH:CASING|||A|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Děkuju za informace
 A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S : )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S Taky pořád čekám na aktivaci navigace .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -43357,12 +43180,10 @@ A 1 1|||M:PUNCT|||.|||REQUIRED|||-NONE-|||1
 S jednoduché a pěkné : - )
 A 0 1|||R:ORTH:CASING|||Jednoduché|||REQUIRED|||-NONE-|||0
 A 3 6|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S jistě oblíbená vůně . . .
 A 0 0|||M:PUNCT|||: -|||REQUIRED|||-NONE-|||0
 A 0 1|||M:PUNCT|||) Jistě|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S je i nová vuně super název neznám
 A 0 1|||R:ORTH:CASING|||Je|||REQUIRED|||-NONE-|||0
@@ -44589,16 +44410,13 @@ S chcete mi říct , že se to nikomu n e l í b í ? ? !
 A 0 1|||R:ORTH:CASING|||Chcete|||REQUIRED|||-NONE-|||0
 A 8 14|||R:ORTH:WSPACE|||nelíbí|||REQUIRED|||-NONE-|||0
 A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 17|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S : D
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Sice máme volno hlavně díky jeho bráchovi , ale to neva ; - )
 A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 11 11|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 14|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S už aby ty sněhuláci byli na každým rokhu a aspon metr snehu všude okolo . .
 A 0 1|||R:ORTH:CASING|||Už|||REQUIRED|||-NONE-|||0
@@ -44608,32 +44426,26 @@ A 7 8|||R:SPELL|||rohu|||REQUIRED|||-NONE-|||0
 A 9 10|||R:DIACR|||aspoň|||REQUIRED|||-NONE-|||0
 A 11 12|||R:DIACR|||sněhu|||REQUIRED|||-NONE-|||0
 A 14 15|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S yes ! ! !
 A 0 1|||R:ORTH:CASING|||Yes|||REQUIRED|||-NONE-|||0
 A 1 3|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Hm , Tučková . . .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S = D
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S včera jsem z ní měl dobrou sračku po fotbale : D
 A 0 1|||R:ORTH:CASING|||Včera|||REQUIRED|||-NONE-|||0
 A 9 11|||R:OTHER|||.|||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S jinak Welcome Holydays : D
 A 0 0|||M:OTHER|||: D|||REQUIRED|||-NONE-|||0
 A 0 2|||R:ORTH:CASING|||Jinak welcome|||REQUIRED|||-NONE-|||0
 A 2 3|||R:SPELL|||holidays|||REQUIRED|||-NONE-|||0
 A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Strašně to letí
 A 3 3|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
@@ -45891,33 +45703,26 @@ A 7 8|||R:DIACR|||ji|||REQUIRED|||-NONE-|||0
 A 10 10|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 13 14|||R:SPELL|||trvá|||REQUIRED|||-NONE-|||0
 A 14 14|||M:PUNCT|||?|||REQUIRED|||-NONE-|||0
-A 0 14|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Děkuji
 A 1 1|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 1|||U:VERB||||||REQUIRED|||-NONE-|||1
 
 S : - )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 3|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S souhlas s Martinem .
 A 0 1|||R:ORTH:CASING|||Souhlas|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S slevomat si zjevně nevidí do úst .
 A 0 1|||R:ORTH:CASING|||Slevomat|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Bylo jasně uvedeno . . . video ne delší než 1 min .
 A 3 6|||R:PUNCT|||„|||REQUIRED|||-NONE-|||0
 A 11 12|||R:QUOTATION|||min“|||REQUIRED|||-NONE-|||0
-A 0 13|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A skutečnost . . . je někde jinde
 A 2 5|||U:PUNCT||||||REQUIRED|||-NONE-|||0
 A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S hmmmm , vzhledem k textu " od 2 do 4 let " uvazuji , kolik melo asi dilku
 A 0 1|||R:OTHER|||Hm|||REQUIRED|||-NONE-|||0
@@ -45927,28 +45732,23 @@ A 12 13|||R:DIACR|||uvažuji|||REQUIRED|||-NONE-|||0
 A 15 16|||R:DIACR|||mělo|||REQUIRED|||-NONE-|||0
 A 17 18|||R:DIACR|||dílků|||REQUIRED|||-NONE-|||0
 A 18 18|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S : D tipuju , ze 4 : )
 A 2 3|||R:ORTH:CASING|||Tipuju|||REQUIRED|||-NONE-|||0
 A 4 5|||R:DIACR|||že|||REQUIRED|||-NONE-|||0
 A 6 6|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ahoj proč nám rušíte kolo štěstí ?
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Kde pak budeme číst ty věčné " Dnes to nevyšlo " ?
 A 4 5|||R:MORPH|||to|||REQUIRED|||-NONE-|||0
 A 6 8|||R:QUOTATION|||„ dnes|||REQUIRED|||-NONE-|||0
 A 9 10|||R:QUOTATION|||nevyšlo“|||REQUIRED|||-NONE-|||0
 A 10 11|||U:PUNCT||||||REQUIRED|||-NONE-|||0
-A 0 12|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S : )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S jj , ta holčička vypadá , že vážně proživá skvělé chvilky
 A 0 1|||R:ORTH:CASING|||Jj|||REQUIRED|||-NONE-|||0
@@ -47834,24 +47634,20 @@ A 4 6|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S Nejde mi o mobilní net . . . já chci levné volání a to je se slevou 75 % . . .
 A 8 9|||R:ORTH:CASING|||Já|||REQUIRED|||-NONE-|||0
-A 0 22|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S takhle jsem vyplázla minulý měsíc za přechod na student krásný 2000 , - : ) ) ) ) )
 A 0 1|||R:ORTH:CASING|||Takhle|||REQUIRED|||-NONE-|||0
 A 9 10|||R:ADJ:INFL|||krásných|||REQUIRED|||-NONE-|||0
 A 11 12|||R:OTHER|||Kč|||REQUIRED|||-NONE-|||0
 A 12 13|||R:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 19|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Do kdy trvá ta soutěž o to HTC ?
 A 0 2|||R:ORTH:WSPACE|||Dokdy|||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S " Starší tarify fungují na jiné technické platformě " - můžete to nějak detailněji rozvést ?
 A 0 1|||R:QUOTATION|||„|||REQUIRED|||-NONE-|||0
 A 7 8|||R:QUOTATION|||platformě“|||REQUIRED|||-NONE-|||0
 A 8 10|||R:PUNCT|||–|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Loni to bylo těšné , ale vyšlo to .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -48570,31 +48366,25 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Hodně štěstí , hodně zdraví
 A 5 5|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S : )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S díky Bohu za lví království , nechť se rozrůstá . . . mám k nim hoooodně blízko charakterem
 A 0 1|||R:ORTH:CASING|||Díky|||REQUIRED|||-NONE-|||0
 A 15 16|||R:SPELL|||hodně|||REQUIRED|||-NONE-|||0
 A 18 18|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S : )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S Jinak samozřejmě holkám přeju , ať si v novém výběhu užívají sluníčka a ať se jim tam líbí
 A 3 4|||R:MORPH|||přeji|||REQUIRED|||-NONE-|||0
 A 12 12|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 18 18|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S : - )
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 3|||U:PUNCT||||||REQUIRED|||-NONE-|||1
 
 S no já doufám že to už víjde ale stále brečím
 A 0 1|||R:ORTH:CASING|||No|||REQUIRED|||-NONE-|||0
@@ -48603,7 +48393,6 @@ A 3 3|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 6 7|||R:SPELL|||vyjde|||REQUIRED|||-NONE-|||0
 A 7 7|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 10 10|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Miluju lední medvídky !
 A 0 1|||R:MORPH|||Miluji|||REQUIRED|||-NONE-|||0
@@ -50410,23 +50199,19 @@ A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||1
 
 S Ahoj Jano ,
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jsem taky moc ráda , že ses ozvala .
 A 0 1|||R:ORTH:CASING|||jsem|||REQUIRED|||-NONE-|||0
 A 1 2|||U:ADV||||||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Děkuju za tvůj email .
 A 0 1|||R:VERB|||Děkuji|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Budu mít hodně zkoušek a tak nemam hodný čas tento měsíc .
 A 0 1|||M:OTHER|||Tento měsíc budu|||REQUIRED|||-NONE-|||0
 A 6 7|||R:DIACR|||nemám|||REQUIRED|||-NONE-|||0
 A 7 8|||R:OTHER|||moc|||REQUIRED|||-NONE-|||0
 A 8 11|||R:OTHER|||času|||REQUIRED|||-NONE-|||0
-A 0 12|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ale v sobotu 14 . 3 mam čas a těším se moc na tvůj pozvani .
 A 6 6|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
@@ -50435,11 +50220,9 @@ A 9 11|||R:OTHER|||jsem|||REQUIRED|||-NONE-|||0
 A 12 13|||R:OTHER|||ráda za|||REQUIRED|||-NONE-|||0
 A 13 14|||R:MORPH|||tvé|||REQUIRED|||-NONE-|||0
 A 14 15|||R:DIACR|||pozvání|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Moc děkuju !
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 3|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S To by byla dobrá možnost pro mne a budu ( řekat ) mluvit moc česky .
 A 0 1|||U:DET||||||REQUIRED|||-NONE-|||0
@@ -50447,28 +50230,23 @@ A 1 3|||R:WO|||Byla by|||REQUIRED|||-NONE-|||0
 A 3 5|||R:OTHER|||to|||REQUIRED|||-NONE-|||0
 A 6 11|||R:OTHER|||mě dobrá příležitost|||REQUIRED|||-NONE-|||0
 A 11 14|||R:OTHER|||, abych mluvila|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Přijí rada do Prahy .
 A 0 3|||U:OTHER|||Do|||REQUIRED|||-NONE-|||0
 A 4 4|||M:OTHER|||přijedu ráda|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Muzu zůstat celý vikend ?
 A 0 1|||R:DIACR|||Můžu|||REQUIRED|||-NONE-|||0
 A 3 4|||R:DIACR|||víkend|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Protože nejsem byla ještě v měste .
 A 0 1|||R:OTHER|||Nikdy|||REQUIRED|||-NONE-|||0
 A 1 4|||R:OTHER|||jsem totiž|||REQUIRED|||-NONE-|||0
 A 5 6|||R:OTHER|||Praze ještě nebyla|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Kde je tvůj byt ?
 A 1 2|||R:VERB|||máš|||REQUIRED|||-NONE-|||0
 A 2 3|||U:DET||||||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Mužeš psát adresu a které metro musím jet .
 A 0 1|||R:DIACR|||Můžeš|||REQUIRED|||-NONE-|||0
@@ -50476,41 +50254,33 @@ A 1 2|||R:OTHER|||mi napsat|||REQUIRED|||-NONE-|||0
 A 4 5|||R:MORPH|||kterým|||REQUIRED|||-NONE-|||0
 A 5 6|||R:MORPH|||metrem|||REQUIRED|||-NONE-|||0
 A 8 9|||R:PUNCT|||?|||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Víš , kolik stoji jízdenku ?
 A 3 4|||R:DIACR|||stojí|||REQUIRED|||-NONE-|||0
 A 4 5|||R:NOUN:INFL|||jízdenka|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Budes mi 30 , co si přeješ ?
 A 0 1|||R:SPELL|||Bude|||REQUIRED|||-NONE-|||0
 A 1 2|||R:PRON|||ti|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A potřebuju neco odtud ?
 A 0 2|||R:OTHER|||Nepotřebuješ|||REQUIRED|||-NONE-|||0
 A 2 4|||R:WO:SPELL|||odtud něco|||REQUIRED|||-NONE-|||0
-A 0 5|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Přejí ti s Martinem hezkou dovolenu a cestu do Itálie .
 A 0 1|||R:DIACR|||Přeji|||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Pro dnešek končím a zdravím Martine .
 A 5 5|||M:ADP|||s|||REQUIRED|||-NONE-|||0
 A 5 6|||R:MORPH|||Martinem|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Měj se hezky !
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 4|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S ciao Sabine
 A 0 1|||R:ORTH:CASING|||Ciao|||REQUIRED|||-NONE-|||0
 A 1 1|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 2 2|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Na obrázku jsou tatínek a ho syn , myslím je mu pět let .
 A 2 3|||R:VERB|||je|||REQUIRED|||-NONE-|||0
@@ -52511,15 +52281,12 @@ A 11 12|||R:QUOTATION|||ví“|||REQUIRED|||-NONE-|||1
 S " Šaty dělají člověka . "
 A 0 1|||R:QUOTATION|||„|||REQUIRED|||-NONE-|||0
 A 5 6|||R:DIACR|||“|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Tuta
 A 0 1|||R:OTHER|||Tato|||REQUIRED|||-NONE-|||0
-A 0 1|||U:NOUN||||||REQUIRED|||-NONE-|||1
 
 S věta pochazí z německé knihy .
 A 1 2|||R:DIACR|||pochází|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S V dnešním času je tuta věta velmí důležitá
 A 1 2|||R:ADJ:INFL|||dnešní|||REQUIRED|||-NONE-|||0
@@ -52528,7 +52295,6 @@ A 4 6|||R:OTHER|||větou|||REQUIRED|||-NONE-|||0
 A 6 7|||R:DIACR|||velmi|||REQUIRED|||-NONE-|||0
 A 7 8|||R:ADJ:INFL|||důležitou|||REQUIRED|||-NONE-|||0
 A 8 8|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 8|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Aktualně se zabyvají školy a univerzity s tou tematou , jestli začinají s nesením českých školských uniforem .
 A 0 1|||R:DIACR|||Aktuálně|||REQUIRED|||-NONE-|||0
@@ -52540,7 +52306,6 @@ A 11 12|||R:DIACR|||začínají|||REQUIRED|||-NONE-|||0
 A 12 13|||R:OTHER|||zvažovat|||REQUIRED|||-NONE-|||0
 A 13 14|||R:NOUN|||nošení|||REQUIRED|||-NONE-|||0
 A 14 16|||R:ADJ|||školních|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jeden důvod je , že jsou víc problemy ve třídě mezi dítech , které jsou jíného původu .
 A 0 1|||R:NUM:INFL|||Jedním|||REQUIRED|||-NONE-|||0
@@ -52550,7 +52315,6 @@ A 11 12|||R:NOUN|||dětmi|||REQUIRED|||-NONE-|||0
 A 12 13|||R:OTHER|||více|||REQUIRED|||-NONE-|||0
 A 13 15|||R:OTHER|||problémů týkajících se|||REQUIRED|||-NONE-|||0
 A 15 16|||R:DIACR|||jiného|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Proto musíme vyvažovat vyhody a nevyhody nesení školských uniforem .
 A 2 3|||R:VERB|||zvažovat|||REQUIRED|||-NONE-|||0
@@ -52558,7 +52322,6 @@ A 3 4|||R:DIACR|||výhody|||REQUIRED|||-NONE-|||0
 A 5 6|||R:DIACR|||nevýhody|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN|||nošení|||REQUIRED|||-NONE-|||0
 A 7 8|||R:ADJ|||školních|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Nesení školských uniforem je dobré za identifikace s školou nebo univerzitou .
 A 0 1|||R:NOUN|||Nošení|||REQUIRED|||-NONE-|||0
@@ -52567,7 +52330,6 @@ A 5 6|||R:ADP|||pro|||REQUIRED|||-NONE-|||0
 A 6 7|||R:NOUN:INFL|||identifikaci|||REQUIRED|||-NONE-|||0
 A 7 9|||R:OTHER|||školy|||REQUIRED|||-NONE-|||0
 A 10 11|||R:NOUN:INFL|||univerzity|||REQUIRED|||-NONE-|||0
-A 0 12|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Naproti tomu je , že ta konkurence s jínymí školami
 A 2 3|||U:AUX||||||REQUIRED|||-NONE-|||0
@@ -52576,14 +52338,12 @@ A 4 5|||R:OTHER|||ale|||REQUIRED|||-NONE-|||0
 A 5 6|||R:OTHER|||stoupá|||REQUIRED|||-NONE-|||0
 A 8 9|||R:DIACR|||jinými|||REQUIRED|||-NONE-|||0
 A 10 10|||M:PUNCT|||.|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S stoupa . Taky je problem , že nebohaté rodiny nemají tu možnost si uniformy koupit , protože jsou přílíš drahé .
 A 0 3|||R:OTHER|||Také|||REQUIRED|||-NONE-|||0
 A 4 5|||R:DIACR|||problém|||REQUIRED|||-NONE-|||0
 A 7 8|||R:ADJ|||chudší|||REQUIRED|||-NONE-|||0
 A 18 19|||R:DIACR|||příliš|||REQUIRED|||-NONE-|||0
-A 0 21|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Protože všichni nesou tu stejnou uniformu , klesou te problemy ve třídě a ta otazka původu není v pokojí .
 A 0 5|||R:OTHER|||Nošením stejné|||REQUIRED|||-NONE-|||0
@@ -52594,7 +52354,6 @@ A 9 10|||R:SPELL|||problémů|||REQUIRED|||-NONE-|||0
 A 13 14|||R:OTHER|||mizí|||REQUIRED|||-NONE-|||0
 A 14 15|||R:DIACR|||otázka|||REQUIRED|||-NONE-|||0
 A 16 19|||U:OTHER||||||REQUIRED|||-NONE-|||0
-A 0 20|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ta otazka dá se jenom řešit , když dostanou rodiče statní příspěvek za koupení školských uniforem .
 A 1 2|||R:DIACR|||otázka|||REQUIRED|||-NONE-|||0
@@ -52605,11 +52364,9 @@ A 6 6|||M:ADV|||tehdy|||REQUIRED|||-NONE-|||0
 A 7 8|||R:SCONJ|||pokud|||REQUIRED|||-NONE-|||0
 A 10 11|||R:DIACR|||státní|||REQUIRED|||-NONE-|||0
 A 14 15|||R:ADJ|||školních|||REQUIRED|||-NONE-|||0
-A 0 17|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Jenom potom je jedna realizace možná .
 A 3 4|||U:NUM||||||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Na konci myslím , že ta otazka není velmí jednoducha a taky nebude se řešit ve příštích pět let , ale když se podíváme do Anglii nebo Thaiska , vidíme , že je to možná řešit různé problemy , který mají jako temata šaty ve školě nebo na univerzitě .
 A 0 2|||R:OTHER|||Nakonec si|||REQUIRED|||-NONE-|||0
@@ -52634,7 +52391,6 @@ A 44 45|||R:ADP|||na|||REQUIRED|||-NONE-|||0
 A 45 46|||R:DIACR|||škole|||REQUIRED|||-NONE-|||0
 A 46 47|||R:CCONJ|||či|||REQUIRED|||-NONE-|||0
 A 47 48|||U:ADP||||||REQUIRED|||-NONE-|||0
-A 0 50|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ahoj Jano , děkuji
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -56201,35 +55957,28 @@ A 10 11|||R:PUNCT|||…|||REQUIRED|||-NONE-|||1
 
 S Souhlasím .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 2|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Souhlasím . Nevím , čeho by člověk mohl dosahnout bez práce .
 A 8 11|||R:WO:SPELL|||bez práce dosáhnout|||REQUIRED|||-NONE-|||0
-A 0 12|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Neberu ohled na lidé , kteři dostali dědíctví .
 A 3 4|||R:NOUN:INFL|||lidi|||REQUIRED|||-NONE-|||0
 A 5 6|||R:DIACR|||kteří|||REQUIRED|||-NONE-|||0
 A 6 7|||R:VERB|||získali|||REQUIRED|||-NONE-|||0
 A 7 8|||R:DIACR|||dědictví|||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Píši o obyčejných lidech jako já .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Člověk začiná pracovat od narození .
 A 1 2|||R:DIACR|||začíná|||REQUIRED|||-NONE-|||0
-A 0 6|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Ditě se snáží mluvit , chodit , držet v ruce příbor .
 A 0 1|||R:DIACR|||Dítě|||REQUIRED|||-NONE-|||0
 A 2 3|||R:DIACR|||snaží|||REQUIRED|||-NONE-|||0
-A 0 12|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A neni to jednoduché , nejde to samo !
 A 1 2|||R:DIACR|||není|||REQUIRED|||-NONE-|||0
-A 0 9|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A čím dál , tím víc usilí měl by přiložit každý člověk , aby dosáhl svých cílů .
 A 3 4|||U:PUNCT||||||REQUIRED|||-NONE-|||0
@@ -56238,38 +55987,31 @@ A 6 7|||R:DIACR|||úsilí|||REQUIRED|||-NONE-|||0
 A 7 8|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 9 10|||U:VERB||||||REQUIRED|||-NONE-|||0
 A 12 12|||M:VERB|||měl vynaložit|||REQUIRED|||-NONE-|||0
-A 0 18|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Pracujeme celý život , abychom se dostali na vysokou školu , uspěšně ji absolvovali .
 A 11 12|||R:DIACR|||úspěšně|||REQUIRED|||-NONE-|||0
-A 0 15|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Potom každý den chodime do zaměstnání .
 A 3 4|||R:DIACR|||chodíme|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A bez dobrých výsledků nedostaneme odměny , nemůžeme postupovat po žebříčku nahoru , dostat zajímavou a dobře placenou práci .
 A 4 6|||R:WO:SPELL|||odměnu nedostaneme|||REQUIRED|||-NONE-|||0
-A 0 20|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Bez práce se nedá se naúčit i cizímu jazyku .
 A 4 5|||R:OTHER|||ani|||REQUIRED|||-NONE-|||0
 A 5 6|||R:DIACR|||naučit|||REQUIRED|||-NONE-|||0
 A 6 8|||R:OTHER|||cizí|||REQUIRED|||-NONE-|||0
 A 8 9|||R:NOUN:INFL|||jazyk|||REQUIRED|||-NONE-|||0
-A 0 10|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Hodně usilí ale stojí za to .
 A 1 2|||R:DIACR|||úsilí|||REQUIRED|||-NONE-|||0
 A 2 6|||R:WO|||za to ale stojí|||REQUIRED|||-NONE-|||0
-A 0 7|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Být spokojeným se svým dobrým výkonem v jakykoliv oblásti je moc důležité pro každého člověka .
 A 7 8|||R:SPELL|||jakékoliv|||REQUIRED|||-NONE-|||0
 A 8 9|||R:DIACR|||oblasti|||REQUIRED|||-NONE-|||0
 A 10 12|||U:OTHER||||||REQUIRED|||-NONE-|||0
 A 15 15|||M:OTHER|||moc důležité|||REQUIRED|||-NONE-|||0
-A 0 16|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S A vyznamenání , které dostaneme od profesíonálů , přispěje k tomu , aby vzrostlo sebehodnocení , což neni malo .
 A 6 7|||R:DIACR|||profesionálů|||REQUIRED|||-NONE-|||0
@@ -56277,7 +56019,6 @@ A 13 14|||R:OTHER|||nám narostlo|||REQUIRED|||-NONE-|||0
 A 14 15|||R:NOUN|||sebevědomí|||REQUIRED|||-NONE-|||0
 A 17 18|||R:DIACR|||není|||REQUIRED|||-NONE-|||0
 A 18 19|||R:DIACR|||málo|||REQUIRED|||-NONE-|||0
-A 0 20|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Pracovat neustale - to je základ uspěchu a sťastného zivota .
 A 1 2|||R:DIACR|||neustále|||REQUIRED|||-NONE-|||0
@@ -56285,7 +56026,6 @@ A 2 3|||R:DIACR|||–|||REQUIRED|||-NONE-|||0
 A 6 7|||R:DIACR|||úspěchu|||REQUIRED|||-NONE-|||0
 A 8 9|||R:DIACR|||šťastného|||REQUIRED|||-NONE-|||0
 A 9 10|||R:DIACR|||života|||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S Pracuj hodně jdí správným směrem - tak dosahneš svých cílů .
 A 0 2|||R:WO|||Hodně pracuj|||REQUIRED|||-NONE-|||0
@@ -56293,7 +56033,6 @@ A 2 2|||M:PUNCT|||,|||REQUIRED|||-NONE-|||0
 A 2 3|||R:DIACR|||jdi|||REQUIRED|||-NONE-|||0
 A 5 6|||R:DIACR|||–|||REQUIRED|||-NONE-|||0
 A 7 8|||R:DIACR|||dosáhneš|||REQUIRED|||-NONE-|||0
-A 0 11|||U:OTHER||||||REQUIRED|||-NONE-|||1
 
 S 1 .
 A -1 -1|||noop|||-NONE-|||REQUIRED|||-NONE-|||0
@@ -57011,4 +56750,3 @@ S Snad jen to , že při vážnych rozhodnutích pamatujme na toto přísloví ,
 A 6 7|||R:DIACR|||vážných|||REQUIRED|||-NONE-|||0
 A 6 7|||R:DIACR|||vážných|||REQUIRED|||-NONE-|||1
 A 15 16|||R:MORPH|||svou|||REQUIRED|||-NONE-|||1
-
