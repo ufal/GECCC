@@ -26,4 +26,22 @@ We are also attaching the slightly modified Moses detokenizer script *detokenize
 
 # Citation
 
-The dataset was introduced in the paper *Czech Grammar Error Correction with a Large and Diverse Corpus* that is accepted to TACL. Until published in TACL, see its [arXiv version](https://arxiv.org/pdf/2201.05590.pdf).
+The dataset was introduced in the paper [Czech Grammar Error Correction with a Large and Diverse Corpus](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00470/110536).
+
+Please cite the following publication:
+
+```
+@article{10.1162/tacl_a_00470,
+    author = {Náplava, Jakub and Straka, Milan and Straková, Jana and Rosen, Alexandr},
+    title = "{Czech Grammar Error Correction with a Large and Diverse Corpus}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {10},
+    pages = {452-467},
+    year = {2022},
+    month = {04},
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00470},
+    url = {https://doi.org/10.1162/tacl\_a\_00470},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00470/2008050/tacl\_a\_00470.pdf},
+}
+```
